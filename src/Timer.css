@@ -1,0 +1,22 @@
+.button-reset {
+    position: absolute;
+    left: 150px;
+    width: 70px;
+}
+
+.values {
+    position: absolute;
+    left: 100px;
+    top: 70px;
+
+}
+
+.button-start, .button-pause {
+    position: absolute;
+    left: 20px;
+    width: 70px;
+}
+
+.App {
+    margin-left: 20px;
+}

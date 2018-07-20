@@ -1,0 +1,9 @@
+.equal, .sign, .result{
+    font-size: 50px;
+}
+.draw{
+    display: flex;
+}
+.number{
+    margin: 5px;
+}

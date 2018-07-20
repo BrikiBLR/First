@@ -1,0 +1,23 @@
+.notes-app {
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    width: 400px;
+}
+.note {
+    height: auto;
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+}
+.search {
+    position: absolute;
+    left: 250px;
+    top: 180px;
+}
+.app-header {
+    margin: 10px;
+}
+
