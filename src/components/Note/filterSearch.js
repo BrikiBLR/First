@@ -28,7 +28,7 @@ export default class FilterSearch extends Component {
 
         this.props.filterSearchNotes(notesArray);
         this.handleSearch();
-
+//
 
     }
 
